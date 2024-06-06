@@ -2,14 +2,14 @@
   "Ads": [
     {
       "more_app"                  : "1",
-      "select_main_ads"           : "ADMOB-B",
-      "select_backup_ads"         : "ADMOB-B",
+      "select_main_ads"           : "ADMOB",
+      "select_backup_ads"         : "ADMOB",
 
-      "main_ads_banner"           : "ca-app-pub-2214374349425406/5903069263",
-      "main_ads_intertitial"      : "ca-app-pub-2214374349425406/9356101251",
-      "main_ads_native"           : "ca-app-pub-2214374349425406/2207366834",
+      "main_ads_banner"           : "ca-app-pub-2214374349425406/1862884924",
+      "main_ads_intertitial"      : "ca-app-pub-2214374349425406/8477029197",
+      "main_ads_native"           : "ca-app-pub-2214374349425406/4461762567",
 
-      "open_ads"                  : "ca-app-pub-2214374349425406/1062678267",
+      "open_ads"                  : "null",
 
       "backup_ads_banner"         : "null",
       "backup_ads_intertitial"    : "null",
